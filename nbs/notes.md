@@ -6,3 +6,4 @@ Currently, the best Python package for imputing missing data seems to be [`fancy
 (https://github.com/iskandr/fancyimpute)
 
 Some future directions: 
+Implement Megan Risdal's feature engineering nb
