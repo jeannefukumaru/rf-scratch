@@ -2,7 +2,9 @@ Notes from first iteration of data
 
 # Feature Engineering
 
-- dropped columns with too many
+- dropped columns with too many missing values 
+
+- changed string/categorical values with `LabelEncoder`
 
 - To go down the data-rabbit hole ('dabbit-hole'), lots of ways of handling missing data. 
 
